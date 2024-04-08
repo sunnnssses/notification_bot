@@ -1,6 +1,2 @@
-class ApiException(Exception):
-    pass
-
-
-class HomeworkException(Exception):
+class ApiError(Exception):
     pass
